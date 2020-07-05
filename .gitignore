@@ -9,3 +9,9 @@ data/__pycache__/
 elmo/__pycache__/
 elmo/custom_layers/__pycache__/
 tests/.cache/
+*.vocab
+*.tokens
+*.hdf5
+*.hd5
+*.jl.z
+*.json
